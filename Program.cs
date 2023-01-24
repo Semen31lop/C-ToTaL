@@ -20,3 +20,5 @@ void PrintArray (string [] array )
         Console.Write($"{array[i]}");
     }
 }
+NewArray (array1, arr);
+PrintArray(arr);
